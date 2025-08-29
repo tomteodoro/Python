@@ -1,0 +1,3 @@
+Hello, SESI!
+Segunda linha de texto.
+Linha adicionada ao final do arquivo.
